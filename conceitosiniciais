@@ -40,4 +40,59 @@ QUESTAO 3) EXPLIQUE O QUE SERIA UM SERVIDOR?
 
 Servidor são sistemas computacionais equipados com um ou mais processadores, bancos de memória, portas de comunicação, softwares e um sistema para armazenamento de dados. 
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Trabalho 2 de PI: Programação aplicada ao direito  
+
+      Aluno: Antônio Tadeu de Sá Nogueira Leite 
+
+     Computadores e Arquivos
+
+
+1 – Encontre referências e comente: 
+a. A relação entre a LGPD e os Data Centers no Brasil 
+b. Formatos de arquivos de dados proprietários e abertos
+b.1 forneça exemplos de formatos 
+b.2 discuta as implicações relacionadas a dados públicos 
+
+2 – Inclua seus comentários no arquivo de texto NO GitHub
+
+
+RESOLUCAO: 
+
+QUESTAO 1 - 
+
+A)	RESPOSTA: 
+
+Sendo a LGPD (Lei Geral de Proteção de Dados) a regulamentação responsável por fazer cumprir a segurança das informações digitais buscando combater qualquer dano físico ou virtual; sua aplicação está diretamente relacionada com a proteção dos centros de processamentos de dados de uma empresa, os Data Centers, onde estão concentrados os sistemas computacionais de uma empresa ou organização, como um sistema de telecomunicações ou um sistema de armazenamento de dados. 
+
+
+B)	RESPOSTA: 
+
+Os Formatos de arquivos de dados proprietários nada mais representam do que a privatização da memória digital. Enquanto, formatos de arquivos abertos seguem padrões, cujas especificações são publicadas e podem ser conhecidas por todos; essa livre de limitações legais no uso, garantindo o acesso aos dados em longo prazo. 
+
+
+B.1) RESPOSTA: 
+
+Formatos de arquivos de dados proprietários:
+
+Exemplos: 
+
+DOC - Microsoft Word Document.
+DWG - AutoCad Drawing.
+MP3 - MPEG Audio Layer 3.
+
+
+Formato de arquivos de dados abertos: 
+
+Exemplos: 
+DWG (AutoCad Drawing) 
+SWF (Shockwave Flash) 
+DOC (formato proprietário de texto)
+PPT (formato proprietário de apresentação de slides). 
+
+
+B.2) RESPOSTA:
+
+Dados públicos nada mais são do que dados que não estão sujeitos a limitações válidas de privacidade, segurança ou controle de acesso, reguladas por estatutos; ou seja, divulgado para a sociedade e seus interesses. 
 
