@@ -62,14 +62,14 @@ Ao se falar de Gerenciamento de Memória, C++, requer gerenciamento manual de me
 As diferenças finais entre as linguagens se dão pelo ecossistema e a comunidade; uma vez que C++, possui uma comunidade robusta e uma grande quantidade de bibliotecas de código aberto disponíveis e um ecossistema mais fragmentado em comparação com outras linguagens. JavaScript, tem um ecossistema vibrante e em rápido crescimento, com uma ampla variedade de bibliotecas e frameworks disponíveis para diferentes fins, incluindo desenvolvimento web front-end e back-end. Por fim, Python, possui uma comunidade ativa e um vasto ecossistema de bibliotecas, frameworks e ferramentas, tornando-a uma escolha popular para uma ampla gama de aplicações, desde desenvolvimento web até ciência de dados e aprendizado de máquina.
 Com isso, se finaliza a análise entre elas comparando o desempenho entre elas; em C++, possui uma excepcional performance e é frequentemente usado em situações em que o desempenho é crítico. Já JavaScript, pode ser menos eficiente em termos de desempenho em comparação com linguagens de baixo nível como C++, especialmente em operações intensivas de CPU. No entanto, com otimizações e avanços na execução do JavaScript, seu desempenho melhorou significativamente. Assim, Python, geralmente é mais lento que C++ e JavaScript em operações intensivas de CPU devido à sua natureza interpretada e dinâmica. No entanto, para muitas aplicações, o desempenho não é um problema crítico, e a produtividade oferecida por Python pode compensar essa diferença de desempenho.
 
-
 Comprovação C++: 
-https://github.com/01antoniotadeu/primeirotrabalho/blob/main/C%2B%2BcomprovaÃ§Ã£o%20de%20comando.png
+https://github.com/01antoniotadeu/primeirotrabalho/blob/main/C%2B%2Bpng.png
 
 Comprovação JavaScript:
-https://github.com/01antoniotadeu/primeirotrabalho/blob/main/JavaScript%20%20-%20comprovaÃ§Ã£o%20de%20comando.png
+https://github.com/01antoniotadeu/primeirotrabalho/blob/main/JavaScript.png
 
 Comprovação Python:
-https://github.com/01antoniotadeu/primeirotrabalho/blob/main/Python%20-%20comprovaÃ§Ã£o%20de%20comando.png
+https://github.com/01antoniotadeu/primeirotrabalho/blob/main/python.png
+
 
 
