@@ -1,0 +1,75 @@
+Trabalho 3 de Programação 3 
+
+Enunciado:
+1 – Explique as diferenças entre 3 linguagens de programação: 
+
+a. Tente fazer um código mínimo em cada uma delas; 
+
+b. Tente executar o seu código; 
+
+2 – Inclua seus comentários e prova de execução em um novo arquivo de texto NO GitHub
+
+LINGUAGEM 1:
+
+- (C++) :
+Linguagem de programação tradicional e comercial utilizada em sistemas de grandes empresas como Amazon e Microsoft. Combina características das linguagens de alto nível, voltadas para o entendimento humano, com as de baixo nível (linguagens de máquinas), essas apresentando sintaxe mais complexa para as pessoas; com isso, o C++ se classifica como linguagem de médio nível, possuindo biblioteca otimizadas, maximizando velocidade e diminuindo os requisitos de memória. 
+
+- Site / Software de Teste: Online C++ Compiler
+
+Estrutura:
+
+#include <iostream>
+
+int main()
+{
+    std::cout<<"Trabalho de programação";
+
+    return 0;
+}
+
+
+LINGUAGEM 2:
+
+- (JavaScript):
+
+É uma linguagem interpretada estruturada, de script em alto nível com tipagem dinâmica fraca, multiparadigma e baseada em objetos; normalmente utilizada para implementar itens complexos em páginas web, se caracteriza por ser uma das três principais tecnologias da World Wide Web, juntamente com HTML e CSS.  
+
+- Site / Software de Teste: JavaScript Online Compiler
+
+Estrutura:
+const message = 'Trabalho de programação' 
+// 
+document.querySelector('#header').innerHTML = message
+// 
+console.log(message)
+
+
+LINGUAGEM 3:
+
+- (Python): 
+É uma linguagem de programação de alto nível, interpretada e de propósito geral. Conhecida por sua sintaxe limpa e legível, que favorece a legibilidade e a facilidade de uso, tornando-a popular entre desenvolvedores iniciantes e experientes. 
+
+- Site / Software de Teste: Online Python 
+
+Estrutura:
+
+print ("trabalho de programação")
+
+
+DIFERENÇA ENTRE AS LINGUAGENS:
+Quanto ao propósito, enquanto a linguagem C++, foi desenvolvida como extensão da linguagem de programação C, para programação de sistemas e aplicações de alto desempenho, sistemas embarcados, jogos, aplicativos de desktop e software de baixo nível; já Javascript, é principalmente usado para desenvolvimento web, fornecendo funcionalidades interativas e dinâmicas em páginas da web. Por fim, Python pode ser usada em uma ampla variedade de domínios, incluindo desenvolvimento web, automação, análise de dados, inteligência artificial e aprendizado de máquina. 
+Ao se falar de Gerenciamento de Memória, C++, requer gerenciamento manual de memória, o que pode levar a vazamentos de memória e bugs relacionados à alocação e deslocação de memória. Enquanto isso, Javascript usa coleta de lixo (garbage collection) automática para gerenciar a memória, liberando automaticamente a memória de objetos não utilizados. Python também usa coleta de lixo para gerenciar automaticamente a memória, facilitando o desenvolvimento e evitando muitos erros comuns de alocação de memória.
+As diferenças finais entre as linguagens se dão pelo ecossistema e a comunidade; uma vez que C++, possui uma comunidade robusta e uma grande quantidade de bibliotecas de código aberto disponíveis e um ecossistema mais fragmentado em comparação com outras linguagens. JavaScript, tem um ecossistema vibrante e em rápido crescimento, com uma ampla variedade de bibliotecas e frameworks disponíveis para diferentes fins, incluindo desenvolvimento web front-end e back-end. Por fim, Python, possui uma comunidade ativa e um vasto ecossistema de bibliotecas, frameworks e ferramentas, tornando-a uma escolha popular para uma ampla gama de aplicações, desde desenvolvimento web até ciência de dados e aprendizado de máquina.
+Com isso, se finaliza a análise entre elas comparando o desempenho entre elas; em C++, possui uma excepcional performance e é frequentemente usado em situações em que o desempenho é crítico. Já JavaScript, pode ser menos eficiente em termos de desempenho em comparação com linguagens de baixo nível como C++, especialmente em operações intensivas de CPU. No entanto, com otimizações e avanços na execução do JavaScript, seu desempenho melhorou significativamente. Assim, Python, geralmente é mais lento que C++ e JavaScript em operações intensivas de CPU devido à sua natureza interpretada e dinâmica. No entanto, para muitas aplicações, o desempenho não é um problema crítico, e a produtividade oferecida por Python pode compensar essa diferença de desempenho.
+
+
+Comprovação C++: 
+https://github.com/01antoniotadeu/primeirotrabalho/blob/main/C%2B%2BcomprovaÃ§Ã£o%20de%20comando.png
+
+Comprovação JavaScript:
+https://github.com/01antoniotadeu/primeirotrabalho/blob/main/JavaScript%20%20-%20comprovaÃ§Ã£o%20de%20comando.png
+
+Comprovação Python:
+https://github.com/01antoniotadeu/primeirotrabalho/blob/main/Python%20-%20comprovaÃ§Ã£o%20de%20comando.png
+
+
